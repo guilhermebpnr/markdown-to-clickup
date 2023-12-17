@@ -1,0 +1,30 @@
+# Node.js
+node_modules/
+npm-debug.log
+
+# Dependency directories
+/jspm_packages/
+/bower_components/
+
+# Optional: Logs and databases
+logs/
+*.log
+*.sqlite
+
+# Optional: OS generated files
+.DS_Store
+Thumbs.db
+
+# Optional: IDE files
+.idea/
+.vscode/
+
+# Optional: Build output
+/build/
+/dist/
+
+# ClickUp.js package
+/.cache/
+
+# Environment variables
+.env

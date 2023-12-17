@@ -1,0 +1,24 @@
+{
+  "name": "markdown-to-clickup",
+  "version": "1.0.0",
+  "description": "A small app for transferring markdown content to ClickUp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guilhermebpnr/markdown-to-clickup.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/guilhermebpnr/markdown-to-clickup/issues"
+  },
+  "homepage": "https://github.com/guilhermebpnr/markdown-to-clickup#readme",
+  "dependencies": {
+    "axios": "^1.6.2",
+    "clickup.js": "^3.0.2"
+  }
+}
